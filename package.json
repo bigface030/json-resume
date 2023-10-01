@@ -4,6 +4,7 @@
   "author": "bigface030 <tp953612@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "jsonresume-theme-macchiato": "^1.1.0",
     "resume-cli": "^3.0.8"
   }
 }
