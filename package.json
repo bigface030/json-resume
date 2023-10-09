@@ -4,7 +4,7 @@
   "scripts": {
     "start": "yarn resume serve -d dist -t macchiato",
     "lint": "yarn resume validate",
-    "build": "yarn resume export docs/resume -f pdf -t macchiato && yarn resume export docs/resume -f html -t macchiato"
+    "build": "yarn resume export docs/index -f pdf -t macchiato && yarn resume export docs/index -f html -t macchiato"
   },
   "dependencies": {
     "jsonresume-theme-macchiato": "^1.1.0",
