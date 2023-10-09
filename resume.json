@@ -1,0 +1,73 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Tzu-Chieh Wang",
+    "label": "Front-end Developer",
+    "email": "tp953612@gmail.com",
+    "phone": "0960127128",
+    "summary": "Hi, I am an engineer with passion for front-end development and strong self-learning ability. My aspiration is to collaborate with a team to build a system or service that solves customer problems and meets the company's needs, ultimately generating business value and product influence.",
+    "profiles": [{
+      "network": "Github",
+      "username": "https://blog.bigface.tw",
+      "url": "https://blog.bigface.tw"
+    }]
+  },
+  "work": [{
+    "name": "HTC VIVE",
+    "position": "Engineer",
+    "startDate": "2022-04",
+    "summary": "VIVERSE is dedicated to building the metaverse, and I am mainly responsible for creating services related to avatars.",
+    "highlights": [
+      "Implement UI/UX using responsive and reusable components while working closely with designer and clarifying requirements from PM.",
+      "Collaborate with backend team member to manage features and implement complex business logic related to avatars and assets. Write functions using clean code, ensuring maintainability without over-designing.",
+      "Maintain and extend cartoonish avatar creator service, utilizing WebGL skills and 3D knowledge, while paying close attention to performance optimization.",
+      "Optimize and enhance avatar models, collaborate closely with 3D artists, and ensure the quality of the models.",
+      "Research and deliver experimental POC tasks.",
+      "Technical sharing and document writing."
+    ]
+  }],
+  "education": [{
+    "institution": "National Tsing Hua University",
+    "area": "Quantitative Finance",
+    "studyType": "Bachelor",
+    "startDate": "2016-09",
+    "endDate": "2020-06"
+  }],
+  "skills": [{
+    "name": "Frontend Develop",
+    "level": "Expert",
+    "keywords": [
+      "HTML / CSS",
+      "Javascript / Typescript",
+      "React.js / Next.js",
+      "Git"
+    ]
+  }, {
+    "name": "WebGL / 3D Model",
+    "level": "Expert",
+    "keywords": [
+      "Three.js",
+      "GLTF / VRM"
+    ]
+  }, {
+    "name": "Soft Skills",
+    "level": "Expert",
+    "keywords": [
+      "Problem-solving",
+      "Communication and Coordination",
+      "Teamwork and Collaboration"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Professional proficiency"
+  }, {
+    "language": "Japanese",
+    "fluency": "Basic"
+  }],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
