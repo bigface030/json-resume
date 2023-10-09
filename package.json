@@ -1,6 +1,11 @@
 {
   "name": "JSON-Resume",
   "version": "1.0.0",
+  "scripts": {
+    "start": "yarn resume serve -d dist -t macchiato",
+    "lint": "yarn resume validate",
+    "build": "yarn resume export docs/resume -f pdf -t macchiato && yarn resume export docs/resume -f html -t macchiato"
+  },
   "author": "bigface030 <tp953612@gmail.com>",
   "license": "MIT",
   "dependencies": {
