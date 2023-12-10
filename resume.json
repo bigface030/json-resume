@@ -5,7 +5,7 @@
     "label": "Front-end Developer",
     "email": "tp953612@gmail.com",
     "phone": "0960127128",
-    "summary": "Hi, I am an engineer with passion for front-end development and strong self-learning ability. My aspiration is to collaborate with a team to build a system or service that solves customer problems and meets the company's needs, ultimately generating business value and product influence.",
+    "summary": "Hi, I am an engineer with passion for front-end development and strong self-learning ability. I hope to be involved in building a system or service that not only has a product influence but also prioritizes the product quality. Aspire to be part of a team with a startup atmosphere.",
     "profiles": [{
       "network": "Github",
       "username": "https://blog.bigface.tw",
@@ -18,9 +18,9 @@
     "startDate": "2022-04",
     "summary": "VIVERSE is dedicated to building the metaverse, and I am mainly responsible for creating services related to avatars.",
     "highlights": [
-      "Implement UI/UX using responsive and reusable components while working closely with designer and clarifying requirements from PM.",
-      "Collaborate with backend team member to manage features and implement complex business logic related to avatars and assets. Write functions using clean code, ensuring maintainability without over-designing.",
-      "Maintain and extend cartoonish avatar creator service, utilizing WebGL skills and 3D knowledge, while paying close attention to performance optimization.",
+      "Implement UI/UX with responsive layout and user-friendly flow while working closely with designer and clarifying requirements from PM.",
+      "Collaborate with backend team member to manage features and implement complex business logic related to avatars.",
+      "Maintain and extend avatar creator service, integrating with 3D knowledge, while paying close attention to performance optimization.",
       "Optimize and enhance avatar models, collaborate closely with 3D artists, and ensure the quality of the models.",
       "Research and deliver experimental POC tasks.",
       "Technical sharing and document writing."
