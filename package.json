@@ -1,6 +1,6 @@
 {
   "name": "json-resume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "start": "yarn resume serve -d dist -t macchiato",
     "lint": "yarn resume validate",
